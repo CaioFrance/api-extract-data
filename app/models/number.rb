@@ -10,7 +10,6 @@ class Number < ApplicationRecord
   def self.format_data_string_to_float(data)
     string_format = Number.format_string(data)
     string_format.split(',').map {|v| v.to_f}
-    # data_format.join.split(',').map {|v| v.to_f}
   end
 
   def self.sort_numbers(data, arr=[])
