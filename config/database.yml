@@ -37,4 +37,4 @@ test:
 
 production:
   <<: *default
-  url: <%= Figaro.env.url %>
+  url: <%= ENV['DATABASE_URL'] %>
