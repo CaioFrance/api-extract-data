@@ -12,8 +12,9 @@
     Esta API foi construída para mostrar os dados extraídos da API 
     <a href="http://challenge.dienekes.com.br/api/numbers?page=1">http://challenge.dienekes.com.br/api/numbers?page=1</a>.
     <br>
-    Está API mostra todos os dados de forma paginada (a mesma quantidade de páginas da API que foi consumida).
-    Este projeto só mostra os dados, a forma de extração foi feita por um <a href="">Script</a> que eu mesmo criei.
+    Está API mostra todos os dados de forma paginada através do parâmetro <strong>?page=</strong> (a mesma quantidade de 
+    páginas da API que foi consumida). Este projeto só mostra os dados de forma ordenada, a forma de extração foi feita por um 
+    <a href="">Script</a> que eu mesmo criei.
 </p>
 
 ## Configuração do Ambiente
