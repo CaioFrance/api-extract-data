@@ -85,6 +85,10 @@
     e passar o número da porta.
 </p>
 
+## Acesso da API na web
+
+- <a href="https://api-extract-data.herokuapp.com/api/numbers?page=10000" target="_blank">https://api-extract-data.herokuapp.com/api/numbers?page=10000</a>
+
 ## Agradecimentos
 
 <p>Foi um baita desafio, quero agradecer a todos que leram até aqui e a oportunidade de resolver esse desafio, Obrigado! :).</p>
