@@ -2,9 +2,9 @@
 
 ## Requisitos
     
-- <a>Ruby 3.0.0</a> 
-- <a>Rails</a>
-- <a>Bundler</a>
+- <a href="https://www.ruby-lang.org/pt/">Ruby 3.0.0</a> 
+- <a href="https://rubyonrails.org/">Rails</a>
+- <a href="https://bundler.io/guides/rails.html">Bundler</a>
 
 ## Sobre o projeto
 
@@ -14,7 +14,7 @@
     <br>
     Está API mostra todos os dados de forma paginada através do parâmetro <strong>?page=</strong> (a mesma quantidade de 
     páginas da API que foi consumida). Este projeto só mostra os dados de forma ordenada, a forma de extração foi feita por um 
-    <a href="">Script</a> que eu mesmo criei.
+    <a href="https://github.com/CaioFrance/extract-data-service">Script</a> que eu mesmo criei.
 </p>
 
 ## Configuração do Ambiente
